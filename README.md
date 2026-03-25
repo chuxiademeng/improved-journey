@@ -13,7 +13,7 @@
 
 ## 大学
 
--[SJTU生存手册](https://survivesjtu.gitbook.io/survivesjtumanual) - 早已崩溃...
+- [SJTU生存手册](https://survivesjtu.gitbook.io/survivesjtumanual) - 早已崩溃...
 
 ## Research
 
