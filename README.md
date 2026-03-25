@@ -1,5 +1,5 @@
 <div align="center">
-	<img width="500" height="350" src="image/logo.svg" alt="ChuXiaDeMeng_Logo">  
+	<img width="500" height="350" src="images/logo.svg" alt="ChuXiaDeMeng_Logo">  
 </div>
 # improved-journey
 **Interest+URL->Genius**
