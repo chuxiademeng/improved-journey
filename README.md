@@ -11,6 +11,9 @@
 
 也想做一个结合个人的URL+txt分享仓库，希望能够帮到大家。
 
+＃＃ 大学
+-[SJTU生存手册](https://survivesjtu.gitbook.io/survivesjtumanual) - 早已崩溃...
+
 ## Research
 
 - [尽早Research](https://www.bilibili.com/video/BV1CGgLzdEQK/?spm_id_from=333.337.search-card.all.click&vd_source=03575d023ae40d44f19a14ba8e34c7ae) - 快点开始滚雪球吧~
