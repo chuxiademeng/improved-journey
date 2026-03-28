@@ -20,7 +20,7 @@
 - [尽早Research](https://www.bilibili.com/video/BV1CGgLzdEQK/?spm_id_from=333.337.search-card.all.click&vd_source=03575d023ae40d44f19a14ba8e34c7ae) - 快点开始滚雪球吧~
 - [EQ](https://www.bilibili.com/video/BV1QL1xBTEhX/?spm_id_from=333.1387.upload.video_card.click&vd_source=03575d023ae40d44f19a14ba8e34c7ae) - 科研竟需要情商！
 
-## 神经科学/符号
+## Neuro Science/Symbol
 
 - [自由能](https://www.youtube.com/watch?v=iPj9D9LgK2A) - 由Karl Friston在2010年提出的最小化自由能理论
 	- [原文](https://sci-hub.st/storage/2024/6706/b2caec9f7161841bc24b9cb89d0d2bb5/friston2010.pdf)
