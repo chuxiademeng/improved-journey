@@ -23,5 +23,5 @@
 ## 神经科学/符号
 
 - [自由能](https://www.youtube.com/watch?v=iPj9D9LgK2A) - 由Karl Friston在2010年提出的最小化自由能理论
-  -[原文](https://sci-hub.st/storage/2024/6706/b2caec9f7161841bc24b9cb89d0d2bb5/friston2010.pdf)
+	- [原文](https://sci-hub.st/storage/2024/6706/b2caec9f7161841bc24b9cb89d0d2bb5/friston2010.pdf)
 
